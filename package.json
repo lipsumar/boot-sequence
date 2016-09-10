@@ -1,0 +1,15 @@
+{
+  "name": "boot-sequence",
+  "version": "0.0.0",
+  "description": "A Node module to create cool boot sequences.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Emmanuel Pire <piremmanuel@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.74.0"
+  }
+}
